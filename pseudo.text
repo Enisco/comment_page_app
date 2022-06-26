@@ -1,0 +1,5 @@
+1. Create the model
+2. Create the widgt for he comment
+3. Duplicate the widget for reply comments
+4. Create TextformField Stack for entering message
+5. Let TextformField message create comment widget when "send" button is pressed
